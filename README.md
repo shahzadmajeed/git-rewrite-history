@@ -1,3 +1,3 @@
-Lets create awesome feature. Kick off commit
+Milestone 1 done
 
-C6
+C7
