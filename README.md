@@ -1,1 +1,1 @@
-Initial commit
+Initial commit. Adding some detail
