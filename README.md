@@ -1,3 +1,3 @@
-Milestone 1 done. Fix some issues
+Milestone 1 done. Fix some issues. Polishing
 
-C8
+C9
