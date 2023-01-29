@@ -1,3 +1,3 @@
-Milestone 1 done
+Milestone 1 done. Fix some issues
 
-C7
+C8
